@@ -1,0 +1,6 @@
+{
+  "name": "Ghar Ka Hisab",
+  "description": "Simple and beautiful Indian household money tracker with Hindi & English support, budget, savings goals, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
